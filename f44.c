@@ -21,7 +21,7 @@ int main() {
     if (a != 0) {
         sleep(10);
     }
-
     printf("\nProcess id = %d, Parent id= %d\n", getpid(), getppid());
-} 
+
+}
 
